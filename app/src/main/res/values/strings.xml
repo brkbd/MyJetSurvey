@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyJetsurvey</string>
+    <string name="app_tagline">Better surveys with Jetpack Compose</string>
+    <string name="sign_in_guest">Sign in as guest</string>
+    <string name="spark">Spark</string>
+    <string name="lenz">Lenz</string>
+    <string name="bug_of_chaos">Bug of Chaos</string>
+    <string name="read">read</string>
+    <string name="work_out">work out</string>
+    <string name="draw">draw</string>
+    <string name="answer">Answer</string>
+    <string name="question_count">" of %d"</string>
+    <string name="close">Close</string>
+    <string name="previous">Previous</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="thank_you">Thank you for your time. Have a nice day!</string>
+    <string name="finish">Finish</string>
+    <string name="direction_for_fill_in_the_blank">Write in the blank below.</string>
+    <string name="direction_for_single_choice">Select one.</string>
+    <string name="direction_for_multiple_choice">Select all that apply.</string>
+    <string name="import_your_survey">Import your survey below!</string>
+    <string name="json_text">JSON Text</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+</resources>
